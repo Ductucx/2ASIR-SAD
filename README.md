@@ -10,5 +10,5 @@ Este repositorio trata de la asignatura de Seguridad y Alta Disponibilidad, por 
 </p>
 
 ## Tareas
-### 1. [Tema 1](./Tema1/)
+### 1. [Tema 1](./Tema%201/)
   - 1.99. [Examen inicial rsync](./Tema%201/Prueba%20rsync/)
