@@ -3,6 +3,7 @@
 ### ÍNDICE
 
 1. [Primeros pasos](#primeros-pasos)
+2. [Dentro de metaesploit](#dentro-de-metaesploit)
 
 
 ## Primeros pasos
@@ -51,6 +52,9 @@ msfdb status
 ![alt image](./IMG/captura1-4.png)
 
 ![alt image](./IMG/captura1-5.png)
+
+
+# Dentro de metaesploit
 
 Una vez configurada la base de datos, accedemos a Metasploit:
 
